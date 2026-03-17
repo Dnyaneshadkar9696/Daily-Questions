@@ -9,6 +9,9 @@ public class Controller {
 		
 		QuestionsDay1 q = new QuestionsDay1();
 		q.call();
+
+		QuestionsDay2 q1 = new QuestionsDay2();
+		q1.calling();
 		
 		
 	}
